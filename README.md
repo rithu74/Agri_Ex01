@@ -6,7 +6,7 @@
 ### ipconfig
     Finds the IP address and default gateway.
     
-### ipconfig/all
+### tra
     Displays more information about the network setup on your systems including the MAC address.
 
 ### getmac
@@ -28,7 +28,15 @@
     Displays information about tcp and udp connections and ports.
 
 ## OUTPUT
-
+![alt text](<Screenshot (50)-1.png>)
+![alt text](<Screenshot (51)-2.png>)
+![alt text](<Screenshot (52)-1.png>)
+![alt text](<Screenshot (53)-1.png>)
+![alt text](<Screenshot (54)-1.png>)
+![alt text](<Screenshot (55)-1.png>)
+![alt text](<Screenshot (56)-1.png>)
+![alt text](<Screenshot (57)-1.png>)
+![alt text](<Screenshot (58)-1.png>)
 
 ## RESULT
   The basic commands in networking are executed successfully.
